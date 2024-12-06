@@ -12,6 +12,12 @@ A flexible JWT authentication and role-based authorization middleware for [Gin](
 - Role-based route protection using custom role IDs.
 - Easily integrates into any Gin application.
 
+
+## Contact
+
+- **Email:** [keagangilmore@gmail.com](mailto:keagangilmore@gmail.com)
+- **Discord:** [keagan2980](https://discord.com/users/keagan2980)
+
 ## Usage
 
 ```go
@@ -41,3 +47,4 @@ func main() {
 
     r.Run(":8080")
 }
+
